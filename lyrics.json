@@ -1,0 +1,477 @@
+{
+    "Bohemian Rhapsody": {
+        "English": "Is this the real life? Is this just fantasy? Caught in a landslide, no escape from reality",
+        "Spanish": "¿Es esta la vida real? ¿Es solo fantasía? Atrapado en un deslizamiento de tierra, sin escape de la realidad",
+        "French": "Est-ce la vraie vie ? Est-ce juste un rêve ? Pris dans un glissement de terrain, pas d'échappatoire à la réalité"
+    },
+    "Imagine": {
+        "English": "Imagine there's no heaven / It's easy if you try",
+        "Spanish": "Imagina que no hay cielo / Es fácil si lo intentas",
+        "French": "Imagine qu'il n'y a pas de paradis / C'est facile si tu essaies"
+    },
+    "Hotel California": {
+        "English": "On a dark desert highway, cool wind in my hair / Warm smell of colitas rising up through the air",
+        "Spanish": "En una oscura autopista del desierto, viento fresco en mi cabello / Cálido olor a colitas subiendo por el aire",
+        "French": "Sur une sombre autoroute du désert, vent frais dans mes cheveux / Chaude odeur de colitas montant dans l'air"
+    },
+    "Smells Like Teen Spirit": {
+        "English": "Load up on guns, bring your friends / It's fun to lose and to pretend",
+        "Spanish": "Carga las armas, trae a tus amigos / Es divertido perder y fingir",
+        "French": "Chargez les armes, amenez vos amis / C'est amusant de perdre et de faire semblant"
+    },
+    "Sweet Child O' Mine": {
+        "English": "She's got a smile that it seems to me / Reminds me of childhood memories",
+        "Spanish": "Tiene una sonrisa que, me parece, / Me recuerda a los recuerdos de la infancia",
+        "French": "Elle a un sourire qui, il me semble, / Me rappelle des souvenirs d'enfance"
+    },
+    "Hey Jude": {
+        "English": "Hey Jude, don't make it bad. / Take a sad song and make it better.",
+        "Spanish": "Hey Jude, no lo hagas peor. / Toma una canción triste y hazla mejor.",
+        "French": "Hey Jude, ne le rends pas pire. / Prends une chanson triste et rends-la meilleure."
+    },
+    "Like a Rolling Stone": {
+        "English": "Once upon a time you dressed so fine / Threw the bums a dime in your prime, didn't you?",
+        "Spanish": "Érase una vez que te vestías tan bien / Les dabas un centavo a los vagabundos en tu apogeo, ¿no?",
+        "French": "Il était une fois, tu t'habillais si bien / Tu donnais une pièce aux clochards dans ta gloire, n'est-ce pas ?"
+    },
+    "Rolling in the Deep": {
+        "English": "There's a fire starting in my heart / Reaching a fever pitch and it's bringing me out the dark",
+        "Spanish": "Hay un fuego comenzando en mi corazón / Alcanzando un punto álgido y sacándome de la oscuridad",
+        "French": "Il y a un feu qui commence dans mon cœur / Atteignant un paroxysme et m'emmenant hors de l'obscurité"
+    },
+    "Lose Yourself": {
+        "English": "His palms are sweaty, knees weak, arms are heavy / There's vomit on his sweater already, mom's spaghetti",
+        "Spanish": "Sus palmas están sudorosas, rodillas débiles, brazos pesados / Ya hay vómito en su suéter, espaguetis de mamá",
+        "French": "Ses paumes sont moites, ses genoux faibles, ses bras lourds / Il y a déjà du vomi sur son pull, les spaghettis de maman"
+    },
+    "Stairway to Heaven": {
+        "English": "There's a lady who's sure all that glitters is gold / And she's buying a stairway to Heaven",
+        "Spanish": "Hay una dama que está segura de que todo lo que brilla es oro / Y está comprando una escalera al cielo",
+        "French": "Il y a une dame qui est sûre que tout ce qui brille est de l'or / Et elle achète un escalier vers le paradis"
+    },
+    "What's Going On": {
+        "English": "Mother, mother / There's too many of you crying",
+        "Spanish": "Madre, madre / Hay demasiados de ustedes llorando",
+        "French": "Mère, mère / Il y a trop de gens qui pleurent"
+    },
+    "Purple Rain": {
+        "English": "I never meant to cause you any sorrow / I never meant to cause you any pain",
+        "Spanish": "Nunca quise causarte ninguna pena / Nunca quise causarte ningún dolor",
+        "French": "Je n'ai jamais voulu te causer de peine / Je n'ai jamais voulu te causer de douleur"
+    },
+    "Let It Be": {
+        "English": "When I find myself in times of trouble, Mother Mary comes to me / Speaking words of wisdom, let it be",
+        "Spanish": "Cuando me encuentro en tiempos de problemas, la Madre María viene a mí / Diciendo palabras de sabiduría, que sea",
+        "French": "Quand je me trouve en temps de trouble, la Mère Marie vient à moi / Prononçant des mots de sagesse, qu'il en soit ainsi"
+    },
+    "Superstition": {
+        "English": "Very superstitious writings on the wall / Very superstitious, ladders 'bout to fall",
+        "Spanish": "Muy supersticioso, escrituras en la pared / Muy supersticioso, las escaleras están a punto de caer",
+        "French": "Très superstitieux, écritures sur le mur / Très superstitieux, les échelles sont sur le point de tomber"
+    },
+    "Uptown Funk": {
+        "English": "This hit, that ice cold / Michelle Pfeiffer, that white gold",
+        "Spanish": "Este éxito, ese frío de hielo / Michelle Pfeiffer, ese oro blanco",
+        "French": "Ce succès, ce froid glacial / Michelle Pfeiffer, cet or blanc"
+    },
+    "Smack That": {
+        "English": "I feel you creepin', I can see it from my shadow / Wanna jump up in my Lamborghini Gallardo?",
+        "Spanish": "Te siento acercándote, puedo verlo desde mi sombra / ¿Quieres subirte a mi Lamborghini Gallardo?",
+        "French": "Je te sens approcher, je peux le voir depuis mon ombre / Tu veux monter dans ma Lamborghini Gallardo ?"
+    },
+    "Creep": {
+        "English": "When you were here before, couldn't look you in the eye / You're just like an angel, your skin makes me cry",
+        "Spanish": "Cuando estabas aquí antes, no podía mirarte a los ojos / Eres como un ángel, tu piel me hace llorar",
+        "French": "Quand tu étais là avant, je ne pouvais pas te regarder dans les yeux / Tu es comme un ange, ta peau me fait pleurer"
+    },
+    "I Will Survive": {
+        "English": "At first I was afraid, I was petrified / Thinking I could live without you by my side",
+        "Spanish": "Al principio tenía miedo, estaba petrificada / Pensando que podría vivir sin ti a mi lado",
+        "French": "Au début, j'avais peur, j'étais pétrifiée / Pensant que je pouvais vivre sans toi à mes côtés"
+    },
+    "Stayin' Alive": {
+        "English": "Well, you can tell by the way I use my walk / I'm a woman's man, no time to talk",
+        "Spanish": "Bueno, puedes decir por la forma en que camino / Soy un hombre de mujeres, no tengo tiempo para hablar",
+        "French": "Eh bien, tu peux dire à ma démarche / Je suis un homme à femmes, pas le temps de parler"
+    },
+    "Hallelujah": {
+        "English": "Now I've heard there was a secret chord / That David played, and it pleased the Lord",
+        "Spanish": "Ahora he oído que había un acorde secreto / Que David tocó, y complació al Señor",
+        "French": "Maintenant j'ai entendu qu'il y avait un accord secret / Que David joua, et cela plut au Seigneur"
+    },
+    "Back in Black": {
+        "English": "Back in black / I hit the sack / I've been too long, I'm glad to be back",
+        "Spanish": "De vuelta en negro / Me meto en la cama / Ha pasado mucho tiempo, estoy feliz de estar de vuelta",
+        "French": "De retour en noir / Je me couche / Ça fait trop longtemps, je suis content d'être de retour"
+    },
+    "Respect": {
+        "English": "Hey, what you want / Baby, I got / What you need / Do you know I got it?",
+        "Spanish": "Oye, ¿qué quieres? / Cariño, lo tengo / ¿Qué necesitas? / ¿Sabes que lo tengo?",
+        "French": "Hé, que veux-tu ? / Bébé, je l'ai / Qu'as-tu besoin ? / Tu sais que je l'ai ?"
+    },
+    "Livin' on a Prayer": {
+        "English": "Tommy used to work on the docks, union's been on strike / He's down on his luck, it's tough, so tough",
+        "Spanish": "Tommy solía trabajar en los muelles, el sindicato está en huelga / Tiene mala suerte, es difícil, muy difícil",
+        "French": "Tommy travaillait sur les quais, le syndicat est en grève / Il n'a pas de chance, c'est dur, très dur"
+    },
+    "Born to Run": {
+        "English": "In the day we sweat it out on the streets / Of a runaway American dream",
+        "Spanish": "Durante el día sudamos en las calles / De un sueño americano fugitivo",
+        "French": "Pendant la journée, nous transpirons dans les rues / D'un rêve américain fugitif"
+    },
+    "Yesterday": {
+        "English": "Yesterday / All my troubles seemed so far away",
+        "Spanish": "Ayer / Todos mis problemas parecían tan lejanos",
+        "French": "Hier / Tous mes problèmes semblaient si loin"
+    },
+    "Karma Police": {
+        "English": "Karma police, arrest this man / He talks in maths",
+        "Spanish": "Policía del karma, arresten a este hombre / Habla en matemáticas",
+        "French": "Police du karma, arrêtez cet homme / Il parle en maths"
+    },
+    "One": {
+        "English": "Is it getting better / Or do you feel the same?",
+        "Spanish": "¿Está mejorando? / ¿O sientes lo mismo?",
+        "French": "Est-ce que ça s'améliore / Ou ressens-tu la même chose ?"
+    },
+    "Wonder": {
+        "English": "I wonder if I'm being real / Do I speak my truth or do I filter how I feel?",
+        "Spanish": "Me pregunto si estoy siendo real / ¿Digo mi verdad o filtro cómo me siento?",
+        "French": "Je me demande si je suis vrai / Est-ce que je dis ma vérité ou je filtre ce que je ressens ?"
+    },
+    "Goodbye Yellow Brick Road": {
+        "English": "When are you gonna come down? / When are you going to land?",
+        "Spanish": "¿Cuándo vas a bajar? / ¿Cuándo vas a aterrizar?",
+        "French": "Quand vas-tu descendre ? / Quand vas-tu atterrir ?"
+    },
+    "Somebody to Love": {
+        "English": "Ooh, each morning I get up I die a little / Can barely stand on my feet",
+        "Spanish": "Ooh, cada mañana me levanto y muero un poco / Apenas puedo mantenerme en pie",
+        "French": "Ooh, chaque matin je me lève et je meurs un peu / Je peux à peine tenir sur mes pieds"
+    },
+    "Nothing Else Matters": {
+        "English": "So close, no matter how far / Couldn't be much more from the heart",
+        "Spanish": "Tan cerca, no importa qué tan lejos / No podría ser mucho más del corazón",
+        "French": "Si proche, peu importe la distance / Ça ne pourrait pas être plus sincère"
+    },
+    "Hotel Yorba": {
+        "English": "I was watching / With one eye on the other side",
+        "Spanish": "Estaba mirando / Con un ojo en el otro lado",
+        "French": "Je regardais / Avec un œil de l'autre côté"
+    },
+    "Take on Me": {
+        "English": "We're talking away / I don't know what I'm to say",
+        "Spanish": "Estamos hablando sin parar / No sé qué decir",
+        "French": "On parle sans arrêt / Je ne sais pas quoi dire"
+    },
+    "Bad Romance": {
+        "English": "I want your ugly, I want your disease / I want your everything as long as it's free",
+        "Spanish": "Quiero tu feo, quiero tu enfermedad / Quiero todo de ti mientras sea gratis",
+        "French": "Je veux ton côté laid, je veux ta maladie / Je veux tout de toi tant que c'est gratuit"
+    },
+    "Someone Like You": {
+        "English": "I heard that you're settled down / That you found a girl and you're married now",
+        "Spanish": "Escuché que te has establecido / Que encontraste a una chica y ahora estás casado",
+        "French": "J'ai entendu dire que tu t'es installé / Que tu as trouvé une fille et que tu es marié maintenant"
+    },
+    "Come As You Are": {
+        "English": "Come as you are, as you were / As I want you to be",
+        "Spanish": "Ven tal como eres, como eras / Como quiero que seas",
+        "French": "Viens comme tu es, comme tu étais / Comme je veux que tu sois"
+    },
+    "Chandelier": {
+        "English": "Party girls don't get hurt / Can't feel anythin', when will I learn?",
+        "Spanish": "Las chicas de fiesta no se lastiman / No pueden sentir nada, ¿cuándo aprenderé?",
+        "French": "Les filles de fête ne se blessent pas / Ne ressentent rien, quand vais-je apprendre ?"
+    },
+    "Firework": {
+        "English": "Do you ever feel like a plastic bag / Drifting through the wind, wanting to start again?",
+        "Spanish": "¿Alguna vez te sientes como una bolsa de plástico / Flotando en el viento, queriendo empezar de nuevo?",
+        "French": "As-tu déjà l'impression d'être un sac en plastique / Dérivant dans le vent, voulant recommencer ?"
+    },
+    "Africa": {
+        "English": "Hear the drums echoing tonight / But she hears only whispers of some quiet conversation",
+        "Spanish": "Escucha los tambores resonando esta noche / Pero ella solo oye susurros de una conversación tranquila",
+        "French": "Entends les tambours résonner ce soir / Mais elle n'entend que des murmures d'une conversation calme"
+    },
+    "Smooth Criminal": {
+        "English": "As he came into the window / It was a sound of a crescendo",
+        "Spanish": "Cuando entró por la ventana / Fue el sonido de un crescendo",
+        "French": "Quand il est entré par la fenêtre / C'était le son d'un crescendo"
+    },
+    "Shape of You": {
+        "English": "A club isn't the best place to find a lover / So the bar is where I go",
+        "Spanish": "Un club no es el mejor lugar para encontrar un amante / Así que al bar es a donde voy",
+        "French": "Un club n'est pas le meilleur endroit pour trouver un amoureux / Alors je vais au bar"
+    },
+    "In the End": {
+        "English": "It starts with one, one thing I don't know why / It doesn't even matter how hard you try",
+        "Spanish": "Empieza con una cosa, una cosa que no sé por qué / Ni siquiera importa cuánto lo intentes",
+        "French": "Ça commence par une chose, une chose que je ne sais pas pourquoi / Ça n'a même pas d'importance à quel point tu essaies"
+    },
+    "Let Her Go": {
+        "English": "Well you only need the light when it's burning low / Only miss the sun when it starts to snow",
+        "Spanish": "Solo necesitas la luz cuando está bajando / Solo extrañas el sol cuando empieza a nevar",
+        "French": "Tu as seulement besoin de la lumière quand elle baisse / Le soleil te manque seulement quand il commence à neiger"
+    },
+    "Thinking Out Loud": {
+        "English": "When your legs don't work like they used to before / And I can't sweep you off of your feet",
+        "Spanish": "Cuando tus piernas no funcionan como antes / Y no puedo levantarte en brazos",
+        "French": "Quand tes jambes ne fonctionnent plus comme avant / Et je ne peux pas te faire tourner la tête"
+    },
+    "Crazy": {
+        "English": "I remember when / I remember, I remember when I lost my mind",
+        "Spanish": "Recuerdo cuando / Recuerdo, recuerdo cuando perdí la cabeza",
+        "French": "Je me souviens quand / Je me souviens, je me souviens quand j'ai perdu la tête"
+    },
+    "Sweet Home Alabama": {
+        "English": "Big wheels keep on turnin' / Carry me home to see my kin",
+        "Spanish": "Las grandes ruedas siguen girando / Llévame a casa para ver a mi familia",
+        "French": "Les grandes roues continuent de tourner / Ramène-moi chez moi pour voir ma famille"
+    },
+    "Toxic": {
+        "English": "Baby, can't you see I'm calling? / A guy like you should wear a warning",
+        "Spanish": "Cariño, ¿no ves que estoy llamando? / Un chico como tú debería llevar una advertencia",
+        "French": "Chéri, ne vois-tu pas que j'appelle ? / Un gars comme toi devrait porter un avertissement"
+    },
+    "Piano Man": {
+        "English": "It's nine o'clock on a Saturday / The regular crowd shuffles in",
+        "Spanish": "Son las nueve en un sábado / La multitud habitual se acerca",
+        "French": "Il est neuf heures un samedi / La foule habituelle s'installe"
+    },
+    "Eye of the Tiger": {
+        "English": "Risin' up, back on the street / Did my time, took my chances",
+        "Spanish": "Levantándome, de vuelta a la calle / Cumplí mi tiempo, tomé mis oportunidades",
+        "French": "Je me lève, de retour dans la rue / J'ai fait mon temps, j'ai saisi mes chances"
+    },
+    "All of Me": {
+        "English": "What would I do without your smart mouth? / Drawing me in, and you kicking me out",
+        "Spanish": "¿Qué haría sin tu boca inteligente? / Atrayéndome y luego echándome",
+        "French": "Que ferais-je sans ta bouche intelligente ? / Me tirant vers toi, puis me repoussant"
+    },
+    "Highway to Hell": {
+        "English": "Livin' easy / Lovin' free / Season ticket on a one way ride",
+        "Spanish": "Viviendo fácil / Amando libre / Boleto de temporada para un viaje de ida",
+        "French": "Vivre facile / Aimer librement / Abonnement pour un aller simple"
+    },
+    "A Thousand Miles": {
+        "English": "Makin' my way downtown / Walkin' fast / Faces pass / And I'm homebound",
+        "Spanish": "Haciendo mi camino por el centro / Caminando rápido / Rostros pasan / Y estoy de camino a casa",
+        "French": "Je fais mon chemin en ville / Je marche vite / Les visages passent / Et je rentre chez moi"
+    },
+    "Wish You Were Here": {
+        "English": "So, so you think you can tell / Heaven from Hell? Blue skies from pain?",
+        "Spanish": "Entonces, ¿crees que puedes distinguir / El cielo del infierno? ¿Cielos azules del dolor?",
+        "French": "Alors, penses-tu pouvoir distinguer / Le paradis de l'enfer ? Le ciel bleu de la douleur ?"
+    },
+    "Uptown Girl": {
+        "English": "She's been living in her uptown world / I bet she never had a backstreet guy",
+        "Spanish": "Ella ha estado viviendo en su mundo del centro / Apuesto a que nunca tuvo un chico de barrio",
+        "French": "Elle a vécu dans son monde huppé / Je parie qu'elle n'a jamais eu un gars de quartier"
+    },
+    "The Chain": {
+        "English": "Listen to the wind blow, watch the sun rise / Running in the shadows, damn your love, damn your lies",
+        "Spanish": "Escucha el viento soplar, mira el sol salir / Corriendo en las sombras, maldito sea tu amor, malditas tus mentiras",
+        "French": "Écoute le vent souffler, regarde le soleil se lever / Courant dans l'ombre, maudis ton amour, maudis tes mensonges"
+    },
+    "Don't Stop Believin'": {
+        "English": "Just a small town girl / Livin' in a lonely world / She took the midnight train going anywhere",
+        "Spanish": "Solo una chica de un pequeño pueblo / Viviendo en un mundo solitario / Tomó el tren de medianoche a cualquier lugar",
+        "French": "Juste une fille de petite ville / Vivant dans un monde solitaire / Elle a pris le train de minuit pour aller n'importe où"
+    },
+    "Under the Bridge": {
+        "English": "Sometimes I feel like I don't have a partner / Sometimes I feel like my only friend",
+        "Spanish": "A veces siento que no tengo un compañero / A veces siento que mi único amigo",
+        "French": "Parfois, j'ai l'impression de ne pas avoir de partenaire / Parfois, j'ai l'impression que mon seul ami"
+    },
+    "Lose Yourself to Dance": {
+        "English": "I know you don't get a chance to take a break this often / I know your life is speeding and it isn't stopping",
+        "Spanish": "Sé que no tienes muchas oportunidades de tomarte un descanso / Sé que tu vida va rápido y no se detiene",
+        "French": "Je sais que tu n'as pas souvent l'occasion de faire une pause / Je sais que ta vie s'accélère et ne s'arrête pas"
+    },
+    "Beat It": {
+        "English": "They told him, 'Don't you ever come around here' / 'Don't wanna see your face, you better disappear'",
+        "Spanish": "Le dijeron, 'No vuelvas por aquí nunca' / 'No queremos ver tu cara, será mejor que desaparezcas'",
+        "French": "Ils lui ont dit, 'Ne reviens jamais ici' / 'On ne veut pas voir ton visage, tu ferais mieux de disparaître'"
+    },
+    "I Want to Break Free": {
+        "English": "I want to break free, I want to break free / I want to break free from your lies",
+        "Spanish": "Quiero liberarme, quiero liberarme / Quiero liberarme de tus mentiras",
+        "French": "Je veux me libérer, je veux me libérer / Je veux me libérer de tes mensonges"
+    },
+    "Welcome to the Jungle": {
+        "English": "Welcome to the jungle, we got fun and games / We got everything you want, honey, we know the names",
+        "Spanish": "Bienvenido a la jungla, tenemos diversión y juegos / Tenemos todo lo que quieres, cariño, sabemos los nombres",
+        "French": "Bienvenue dans la jungle, on a des jeux et du plaisir / On a tout ce que tu veux, chérie, on connaît les noms"
+    },
+    "Hey Ya!": {
+        "English": "My baby don't mess around / Because she loves me so / And this I know fo sho",
+        "Spanish": "Mi nena no juega conmigo / Porque me ama tanto / Y esto lo sé con certeza",
+        "French": "Ma chérie ne me joue pas des tours / Parce qu'elle m'aime tellement / Et ça, je le sais pour sûr"
+    },
+    "Man in the Mirror": {
+        "English": "I'm gonna make a change / For once in my life",
+        "Spanish": "Voy a hacer un cambio / Por una vez en mi vida",
+        "French": "Je vais faire un changement / Pour une fois dans ma vie"
+    },
+    "Enter Sandman": {
+        "English": "Say your prayers, little one / Don't forget, my son",
+        "Spanish": "Di tus oraciones, pequeño / No lo olvides, hijo mío",
+        "French": "Dis tes prières, petit / N'oublie pas, mon fils"
+    },
+    "The Sound of Silence": {
+        "English": "Hello darkness, my old friend / I've come to talk with you again",
+        "Spanish": "Hola oscuridad, mi vieja amiga / He venido a hablar contigo otra vez",
+        "French": "Bonjour ténèbres, mon vieil ami / Je suis venu te parler à nouveau"
+    },
+    "My Heart Will Go On": {
+        "English": "Every night in my dreams / I see you, I feel you",
+        "Spanish": "Cada noche en mis sueños / Te veo, te siento",
+        "French": "Chaque nuit dans mes rêves / Je te vois, je te ressens"
+    },
+    "Poker Face": {
+        "English": "Can't read my, can't ready my / She's got me like nobody",
+        "Spanish": "No puedes leerme, no puedes adivinarme / Ella me tiene como nadie más",
+        "French": "Tu ne peux pas me lire, tu ne peux pas deviner / Elle m'a comme personne"
+    },
+    "Another Brick in the Wall": {
+        "English": "We don't need no education / We don't need no thought control",
+        "Spanish": "No necesitamos educación / No necesitamos control mental",
+        "French": "On n'a pas besoin d'éducation / On n'a pas besoin de contrôle mental"
+    },
+    "I Gotta Feeling": {
+        "English": "I got a feelin' / That tonight's gonna be a good night",
+        "Spanish": "Tengo un presentimiento / Que esta noche será una buena noche",
+        "French": "J'ai un pressentiment / Que ce soir sera une bonne nuit"
+    },
+    "Livin' La Vida Loca": {
+        "English": "She's into superstitions / Black cats and voodoo dolls",
+        "Spanish": "Le gustan las supersticiones / Gatos negros y muñecas de vudú",
+        "French": "Elle aime les superstitions / Les chats noirs et les poupées vaudou"
+    },
+    "Clocks": {
+        "English": "The lights go out and I can't be saved / Tides that I tried to swim against",
+        "Spanish": "Las luces se apagan y no puedo salvarme / Mareas contra las que intenté nadar",
+        "French": "Les lumières s'éteignent et je ne peux pas être sauvé / Les marées contre lesquelles j'ai essayé de nager"
+    },
+    "Somebody That I Used to Know": {
+        "English": "Now and then I think of when we were together / Like when you said you felt so happy you could die",
+        "Spanish": "De vez en cuando pienso en cuando estábamos juntos / Como cuando dijiste que te sentías tan feliz que podrías morir",
+        "French": "De temps en temps, je pense à quand nous étions ensemble / Comme quand tu as dit que tu étais si heureux que tu pourrais mourir"
+    },
+    "Yellow": {
+        "English": "Look at the stars / Look how they shine for you",
+        "Spanish": "Mira las estrellas / Mira cómo brillan por ti",
+        "French": "Regarde les étoiles / Regarde comme elles brillent pour toi"
+    },
+    "Royals": {
+        "English": "I've never seen a diamond in the flesh / I cut my teeth on wedding rings in the movies",
+        "Spanish": "Nunca he visto un diamante en carne propia / Me formé con anillos de boda en las películas",
+        "French": "Je n'ai jamais vu un diamant en vrai / J'ai fait mes armes avec des bagues de mariage dans les films"
+    },
+    "Oops!... I Did It Again": {
+        "English": "I think I did it again / I made you believe we're more than just friends",
+        "Spanish": "Creo que lo hice otra vez / Te hice creer que somos más que solo amigos",
+        "French": "Je crois que je l'ai encore fait / Je t'ai fait croire que nous sommes plus que de simples amis"
+    },
+    "Blinding Lights": {
+        "English": "I've been tryna call / I've been on my own for long enough",
+        "Spanish": "He estado intentando llamar / He estado solo por bastante tiempo",
+        "French": "J'ai essayé d'appeler / J'ai été seul assez longtemps"
+    },
+    "Don't Let Me Down": {
+        "English": "Crashin', hit a wall / Right now, I need a miracle",
+        "Spanish": "Chocando, me estrellé contra una pared / Ahora mismo, necesito un milagro",
+        "French": "Je m'écrase, je heurte un mur / En ce moment, j'ai besoin d'un miracle"
+    },
+    "Iris": {
+        "English": "And I'd give up forever to touch you / 'Cause I know that you feel me somehow",
+        "Spanish": "Y renunciaría a la eternidad para tocarte / Porque sé que de alguna manera me sientes",
+        "French": "Et je renoncerais à l'éternité pour te toucher / Parce que je sais que tu me ressens d'une certaine manière"
+    },
+    "Umbrella": {
+        "English": "No clouds in my stones / Let it rain, I hydroplane in the bank",
+        "Spanish": "Sin nubes en mis piedras / Que llueva, hago hidroplaneo en el banco",
+        "French": "Pas de nuages dans mes pierres / Laisse pleuvoir, je fais de l'aquaplaning à la banque"
+    },
+    "Riptide": {
+        "English": "I was scared of dentists and the dark / I was scared of pretty girls and starting conversations",
+        "Spanish": "Tenía miedo de los dentistas y la oscuridad / Tenía miedo de las chicas guapas y de empezar conversaciones",
+        "French": "J'avais peur des dentistes et de l'obscurité / J'avais peur des jolies filles et de commencer des conversations"
+    },
+    "Bad Guy": {
+        "English": "White shirt now red, my bloody nose / Sleepin', you're on your tippy toes",
+        "Spanish": "Camisa blanca ahora roja, mi nariz sangrante / Durmiendo, estás de puntillas",
+        "French": "Chemise blanche maintenant rouge, mon nez ensanglanté / Dormant, tu es sur la pointe des pieds"
+    },
+    "Tears in Heaven": {
+        "English": "Would you know my name / If I saw you in heaven?",
+        "Spanish": "¿Sabrías mi nombre / Si te viera en el cielo?",
+        "French": "Connaîtrais-tu mon nom / Si je te voyais au paradis ?"
+    },
+    "Castle on the Hill": {
+        "English": "When I was six years old, I broke my leg / I was runnin' from my brother and his friends",
+        "Spanish": "Cuando tenía seis años, me rompí la pierna / Estaba corriendo de mi hermano y sus amigos",
+        "French": "Quand j'avais six ans, je me suis cassé la jambe / Je fuyais mon frère et ses amis"
+    },
+    "Can't Stop the Feeling!": {
+        "English": "I got this feelin' inside my bones / It goes electric, wavy when I turn it on",
+        "Spanish": "Tengo esta sensación dentro de mis huesos / Se vuelve eléctrica, ondulante cuando la enciendo",
+        "French": "J'ai cette sensation dans mes os / Ça devient électrique, ondulant quand je l'allume"
+    },
+    "Wake Me Up": {
+        "English": "Feeling my way through the darkness / Guided by a beating heart",
+        "Spanish": "Sintiendo mi camino a través de la oscuridad / Guiado por un corazón que late",
+        "French": "Je ressens mon chemin à travers l'obscurité / Guidé par un cœur qui bat"
+    },
+    "Rockstar": {
+        "English": "She ask me light a fire like I'm Morrison, ayy / Act a fool on stage",
+        "Spanish": "Ella me pide que encienda un fuego como si fuera Morrison, ayy / Me comporto como un tonto en el escenario",
+        "French": "Elle me demande d'allumer un feu comme si j'étais Morrison, ayy / Je fais l'idiot sur scène"
+    },
+    "Halo": {
+        "English": "Remember those walls I built? / Well, baby, they're tumblin' down",
+        "Spanish": "¿Recuerdas esos muros que construí? / Bueno, cariño, se están derrumbando",
+        "French": "Tu te souviens de ces murs que j'ai construits ? / Eh bien, bébé, ils s'effondrent"
+    },
+    "Viva La Vida": {
+        "English": "I used to rule the world / Seas would rise when I gave the word",
+        "Spanish": "Solía gobernar el mundo / Los mares se alzaban cuando daba la orden",
+        "French": "Je régnait sur le monde / Les mers montaient quand je donnais l'ordre"
+    },
+    "Survivor": {
+        "English": "Now that you're out of my life, I'm so much better / You thought that I'd be weak without you, but I'm stronger",
+        "Spanish": "Ahora que estás fuera de mi vida, estoy mucho mejor / Pensaste que sería débil sin ti, pero soy más fuerte",
+        "French": "Maintenant que tu es hors de ma vie, je vais beaucoup mieux / Tu pensais que je serais faible sans toi, mais je suis plus fort"
+    },
+    "Stronger": {
+        "English": "Work it, make it, do it / Makes us harder, better, faster, stronger",
+        "Spanish": "Trabájalo, hazlo, lógralo / Nos hace más duros, mejores, más rápidos, más fuertes",
+        "French": "Travaille, fais-le, réussis / Ça nous rend plus durs, meilleurs, plus rapides, plus forts"
+    },
+    "Shake It Off": {
+        "English": "I stay out too late / Got nothing in my brain",
+        "Spanish": "Me quedo fuera hasta muy tarde / No tengo nada en mi cerebro",
+        "French": "Je reste dehors trop tard / Je n'ai rien dans la tête"
+    },
+    "Hello": {
+        "English": "Hello, it's me / I was wondering if after all these years you'd like to meet",
+        "Spanish": "Hola, soy yo / Me preguntaba si después de todos estos años te gustaría encontrarte",
+        "French": "Bonjour, c'est moi / Je me demandais si après toutes ces années tu aimerais te rencontrer"
+    },
+    "All Star": {
+        "English": "Somebody once told me / The world is gonna roll me",
+        "Spanish": "Alguien una vez me dijo / Que el mundo me iba a aplastar",
+        "French": "Quelqu'un m'a dit une fois / Que le monde allait me rouler dessus"
+    },
+    "Crazy in Love": {
+        "English": "I look and stare so deep in your eyes / I touch on you more and more every time",
+        "Spanish": "Miro profundamente en tus ojos / Te toco cada vez más",
+        "French": "Je regarde profondément dans tes yeux / Je te touche de plus en plus à chaque fois"
+    },
+    "Call Me Maybe": {
+        "English": "I threw a wish in the well / Don't ask me, I'll never tell",
+        "Spanish": "Lancé un deseo en el pozo / No me preguntes, nunca lo diré",
+        "French": "J'ai lancé un vœu dans le puits / Ne me demande pas, je ne le dirai jamais"
+    }
+}
